@@ -1,0 +1,537 @@
+@media (max-width: 1440px) {
+  /* header-section------------------------------------ */
+  .content h1 {
+    font-size: 3.6em;
+  }
+  .content p {
+    font-size: 1.8em;
+  }
+  .navigation {
+    padding: 54px 80px;
+  }
+  /* header-section-end----------------------------------- */
+  /* section-2 ------------------------------------------- */
+  .section-2 .content-1 {
+    width: 48%;
+  }
+  .section-2 .content-1 .sub-content h1 {
+    font-size: 3.5em;
+  }
+  .section-2 .content-1 .sub-content p {
+    font-size: 1.8em;
+    color: #2b689e;
+  }
+  .section-2 .content-2 {
+    width: 600px;
+  }
+  .content-2 .sub-content {
+    padding: 50px 0;
+    margin: 10px 0;
+  }
+  .content-2 .sub-content h2 {
+    font-size: 1.1em;
+    padding: 12px 28px;
+  }
+  .content-2 .sub-content h1 {
+    margin-left: 100px;
+    font-size: 2em;
+    font-weight: 500;
+    margin-bottom: 10px;
+  }
+  .content-2 .sub-content p {
+    margin-left: 100px;
+    color: #2b689e;
+    font-size: 1.8em;
+  }
+
+  /* section-2-end ------------------------------------------- */
+  /* section-3 ----------------------------------------------- */
+
+  .container .content .profile {
+    padding: 0;
+  }
+  .container .content .profile h1 {
+    font-size: 2em;
+  }
+  .container .content .profile p {
+    font-size: 1em;
+  }
+  /* section-3-end ------------------------------------------- */
+}
+
+@media (max-width: 1200px) {
+  /* header-section------------------------------------ */
+  .content-1 .content h1 {
+    font-size: 3.3em;
+  }
+  section {
+    padding: 0;
+  }
+  .navigation {
+    padding: 54px 40px;
+  }
+  .nav-links li {
+    margin-right: 20px;
+  }
+  .section-1 .container {
+    padding: 0 30px;
+  }
+  /* header-section-end------------------------------------ */
+  /* section-2 ------------------------------------------- */
+  .section-2 .container {
+    padding: 0 30px;
+  }
+  .section-2 .content-1 {
+    width: 48%;
+  }
+  .container .content-1 .sub-content h1 {
+    font-size: 4em;
+  }
+  .section-2 .content-1 .sub-content p {
+    font-size: 1.6em;
+    color: #2b689e;
+  }
+  .section-2 .content-2 {
+    width: 48%;
+  }
+  .content-2 .sub-content {
+    padding: 10px 0;
+    margin: 0;
+    width: 100%;
+  }
+  .content-2 .sub-content h2 {
+    font-size: 1em;
+    padding: 8px 20px;
+  }
+  .content-2 .sub-content h1 {
+    margin-left: 80px;
+    font-size: 1.6em;
+    margin-bottom: 10px;
+  }
+  .content-2 .sub-content p {
+    margin-left: 80px;
+    font-size: 1.4em;
+  }
+  /* section-2-end ---------------------------------------- */
+  /* section-3 ---------------------------------------------- */
+  .section-3 .container {
+    width: 100%;
+    padding: 0 30px;
+  }
+  .container .content .profile h1 {
+    font-size: 1.8em;
+  }
+  .container .content .profile p {
+    font-size: 1.2em;
+  }
+  /* section-3-end ------------------------------------------- */
+  /* section-4 ------------------------------------------------ 
+  */
+  .section-4 .container {
+    padding: 60px 30px;
+  }
+  /* section-4-end --------------------------------------------- */
+  /* section-5 ------------------------------------------------- */
+  .section-5 .footer{
+    padding: 0 30px;
+  }
+
+
+}
+
+@media (max-width: 992px) {
+  .blur-layer{
+    display:block;
+  }
+  /* header-section------------------------------------ */
+  .content-1 .sub-content h1 {
+    font-size: 1.8em;
+  }
+  .nav-links,
+  .navigation button {
+    display: none;
+  }
+  .content {
+    width: 46%;
+  }
+  .content-img {
+    width: 54%;
+  }
+  section-1 .container {
+    padding: 0 10px;
+  }
+  .content button {
+    padding: 17px 30px;
+    margin-left: 40px;
+  }
+  .mobile_menu {
+    display: block;
+  }
+  /* header-section-end------------------------------------ */
+  /* section-2 --------------------------------------------- */
+
+  .section-2 .container {
+    padding: 0 30px;
+  }
+  .section-2 .content-1 .sub-content h1 {
+    font-size: 3em;
+  }
+  .section-2 .content-1 .sub-content p {
+    font-size: 1.2em;
+    color: #2b689e;
+  }
+  .section-2 .content-2 {
+    width: 48%;
+  }
+  .content-2 .sub-content {
+    padding: 10px 0;
+  }
+  .content-2 .sub-content h2 {
+    font-size: 1em;
+    padding: 6px 18px;
+  }
+  .content-2 .sub-content h1 {
+    font-size: 1.5em;
+  }
+  .content-2 .sub-content p {
+    font-size: 1.1em;
+  }
+  /* section-2-end ---------------------------------------- */
+  /* section-3 ---------------------------------------------- */
+  .container .content .profile {
+    width: 49%;
+    margin-top: 32px;
+  }
+  .container .content .pro {
+    margin-top: 18px;
+    width: 100%;
+    order: 1;
+  }
+  /* section-3-end ------------------------------------------- */
+  /* section-5 ------------------------------------------------- */
+  .section-5 .footer{
+    padding-left: 30px;
+    padding-right:0;
+    
+  }
+  .footer .logo{
+    width: 180px;
+  }
+  .footer .sec-1{
+    width: 120px;
+  }
+  .footer .sec-1 ul li a{
+    font-size: 1em;
+  }
+
+  .footer .sec-2{
+    width: 120px;
+  }
+  .footer .sec-2 ul li a{
+    font-size: 1em;
+  }
+  .footer .input-box{
+    width: 300px;
+
+  }
+  .footer .input-box-1{
+    height: 40px;
+    width: 260px;
+    border-radius: 40px;
+  }
+  
+  .footer .input-box-1 input{
+    color: var(--button);
+    border: none;
+    outline: none;
+    height: 100%;
+    width:180px;
+    border-radius: 40px;
+  }
+  .footer .input-box-1 .search-btn{
+    padding: 12px 22px;
+  }
+  /* section-5-end ------------------------------------------------------ */
+}
+
+@media (max-width: 768px) {
+  /* header-section------------------------------------ */
+  .navigation {
+    padding:40px;
+  }
+  .layer {
+    position: absolute;
+    top: -360px;
+    right: -360px;
+    z-index: -1;
+  }
+  .content h1 {
+    font-size: 3em;
+  }
+  .content p {
+    margin-top: 20px;
+  }
+  .section-1 .container {
+    padding: 0;
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap-reverse;
+  }
+  .section-1 .container .content {
+    width: 80%;
+    padding-left: 60px;
+  }
+  .content-img {
+    width: 80%;
+  }
+  .content button {
+    padding: 17px 30px;
+    margin: 20px 0;
+  }
+  /* header-section-end------------------------------------ */
+  /* section-2 ------------------------------------------ */
+  .section-2 .container {
+    padding: 0 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .section-2 .content-1 {
+    width: 100%;
+  }
+  .section-2 .content-1 .sub-content h1 {
+    font-size: 3.5em;
+  }
+  .section-2 .content-1 .sub-content p {
+    font-size: 1.4em;
+    color: #2b689e;
+  }
+  .section-2 .content-2 {
+    width: 100%;
+  }
+  .content-2 .sub-content {
+    padding: 20px 0;
+  }
+  .content-2 .sub-content h2 {
+    left: -12px;
+    position: absolute;
+    top: 21px;
+    font-size: 1em;
+    padding: 10px 20px;
+  }
+  .content-2 .sub-content h1 {
+    padding: 5px 0;
+    text-align: center;
+    margin-left: 0;
+    background: var(--text_bg);
+    font-size: 1.6em;
+  }
+  .content-2 .sub-content p {
+    font-size: 1.2em;
+  }
+  /* section-2-end -------------------------------------- */
+  /* section-3 ------------------------------------------- */
+  .container .content .profile {
+    width: 100%;
+    margin-top: 30px;
+  }
+  /* section-3-end ----------------------------------------- */
+  /* section-4 ------------------------------------------------ 
+  */
+  .section-4 .container h1{
+    font-size: 2.1em;
+  }
+  /* section-4-end --------------------------------------------- */
+  /* section-5 ------------------------------------------------- */
+  .section-5 .footer{
+    padding: 0 30px;
+    
+  }
+  .footer .logo{
+    width: 180px;
+  }
+  .footer .sec-1{
+    width: 150px;
+  }
+  .footer .sec-1 ul li a{
+    font-size: 1em;
+  }
+
+  .footer .sec-2{
+    width: 150px;
+  }
+  .footer .sec-2 ul li a{
+    font-size: 1em;
+  }
+  .footer .input-box{
+    width: 100%;
+
+  }
+  .footer .input-box-1{
+    height: 40px;
+    width: 260px;
+    border-radius: 40px;
+  }
+  
+  .footer .input-box-1 input{
+    color: var(--button);
+    border: none;
+    outline: none;
+    height: 100%;
+    width:180px;
+    border-radius: 40px;
+  }
+  .footer .input-box-1 .search-btn{
+    padding: 12px 22px;
+  }
+  /* section-5-end ------------------------------------------------------ */
+}
+
+@media (max-width: 576px) {
+  /* header-section------------------------------------ */
+  .navigation {
+    padding: 54px 10px;
+  }
+  .layer {
+    position: absolute;
+    top: -360px;
+    right: -450px;
+    z-index: -1;
+  }
+  .section-1 .container {
+    padding: 0 30px;
+  }
+
+  .content h1 {
+    font-size: 2.4em;
+  }
+  .section-1 .container .content {
+    width: 80%;
+    padding: 0;
+    text-align: justify;
+    text-align: center;
+  }
+
+  .content button {
+    padding: 15px 28px;
+    margin-left: 0;
+    margin-top: 10px;
+  }
+  /* header-section-end------------------------------------ */
+  /* section-2 --------------------------------------------- */
+  .section-2 .container {
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .section-2 .content-1 {
+    text-align: center;
+    width: 100%;
+  }
+  .section-2 .content-1 .sub-content h1 {
+    font-size: 2.4em;
+    margin-bottom: 10px;
+  }
+  .section-2 .content-1 .sub-content p {
+    font-size: 1.1em;
+    color: #2b689e;
+  }
+  .section-2 .content-2 {
+    width: 100%;
+  }
+  .content-2 .sub-content {
+    padding: 20px 0;
+  }
+  .content-2 .sub-content h2 {
+    left: -10px;
+    position: absolute;
+    top: 21px;
+    font-size: 1em;
+    padding: 10px 30px;
+  }
+  .content-2 .sub-content h1 {
+    padding: 5px 0;
+    text-align: center;
+    margin-left: 0;
+    background: var(--text_bg);
+    font-size: 1.6em;
+  }
+  .content-2 .sub-content p {
+    font-size: 1.3em;
+  }
+  /* section-2-end ------------------------------------------ */
+  /* section-3 ---------------------------------------------- */
+
+  .container .content .profile {
+    width: 100%;
+    margin-top: 30px;
+  }
+  .container .content .pro {
+    width: 100%;
+  }
+  /* section-3-end ----------------------------------------------- */
+  /* section-4 ------------------------------------------------ 
+  */
+  .section-4 .container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+  }
+  .section-4 .container h1{
+    font-size: 3em;
+  }
+  .section-4 .container .button{
+    margin: 20px 0;
+  }
+  /* section-4-end --------------------------------------------- */
+  /* section-5 ------------------------------------------------- */
+  .footer .logo{
+    width: 100%;
+    height: 150px;
+  }
+  .footer .sec-1{
+    width: 48%;
+    height: 180px;
+  }
+  .footer .sec-1 ul li a{
+    font-size: 1em;
+  }
+
+  .footer .sec-2{
+    width: 48%;
+    height: 180px;
+  }
+  .footer .sec-2 ul li a{
+    font-size: 1em;
+  }
+  .footer .input-box{
+    width: 100%;
+    height: 150px;
+
+  }
+  .footer .input-box-1{
+    height: 40px;
+    width: 260px;
+    border-radius: 40px;
+  }
+  
+  .footer .input-box-1 input{
+    color: var(--button);
+    border: none;
+    outline: none;
+    height: 100%;
+    width:180px;
+    border-radius: 40px;
+  }
+  .footer .input-box-1 .search-btn{
+    padding: 12px 22px;
+  }
+  /* section-5-end ------------------------------------------------------ */
+}
+
